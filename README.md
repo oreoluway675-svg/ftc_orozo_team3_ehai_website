@@ -11,7 +11,7 @@ The team comprised the following people:
 [View Live Demo](https://oreoluway675-svg.github.io/ftc_orozo_team3_ehai_website/)
 
 ## Screen Recording Preview
-
+![Screen Recording](https://github.com/oreoluway675-svg/ftc_orozo_team3_ehai_website/blob/master/ftc_orozo_team3_ehai_video.webm)
 
 
 
